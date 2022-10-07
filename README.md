@@ -1,5 +1,4 @@
-# Java-Challenegs-Udemy-
-Challenges I've completed in Udemy using Java 
+# Java Challenegs in Udemy's "The Complete Java Development Bootcamp"
 
 Challenge One --> Chatbox 
 Challenge Two --> ??
