@@ -1,1 +1,1 @@
-# Java Challenegs and Projects in Udemy's "The Complete Java Development Bootcamp"
+# Java Challengs and Projects in Udemy's "The Complete Java Development Bootcamp"
