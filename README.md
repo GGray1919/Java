@@ -1,5 +1,1 @@
-# Java Challenegs in Udemy's "The Complete Java Development Bootcamp"
-
-Challenge One --> Chatbox 
-\nChallenge Two --> ??
-\nChallenge Three --> ??
+# Java Challenegs and Projects in Udemy's "The Complete Java Development Bootcamp"
